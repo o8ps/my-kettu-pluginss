@@ -1,0 +1,6 @@
+{
+  "name": "AutoReact",
+  "description": "Automatically react to messages from specified user IDs with a configurable delay.",
+  "authors": [{ "name": "you" }],
+  "main": "index.js"
+}
